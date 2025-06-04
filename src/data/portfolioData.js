@@ -10,7 +10,7 @@ export const portfolioData = {
     },
 
     // Navegación 
-    navigation: ["SKILLS", "EDUCATION", "PROJECTS", "CONTACTS"],
+    navigation: ["HABILIDADES", "EDUCACION", "PROYECTOS", "CONTACTO"],
 
     // Habilidades técnicas con iconos
     hardSkills: [
@@ -26,12 +26,12 @@ export const portfolioData = {
 
     // Habilidades blandas con iconos
     softSkills: [
-        { name: "PROBLEM SOLVING", icon: "🧩" },
-        { name: "TEAM COLLABORATION", icon: "🤝" },
-        { name: "AGILE METHODOLOGIES", icon: "🔄" },
-        { name: "CONTINUOUS LEARNING", icon: "📈" },
-        { name: "ATTENTION TO DETAIL", icon: "🔍" },
-        { name: "TIME MANAGEMENT", icon: "⏰" },
+        { name: "RESOLUCION DE PROBLEMAS", icon: "🧩" },
+        { name: "TRABALAR EN EQUIPO", icon: "🤝" },
+        { name: "CREATIVIDAD", icon: "🔄" },
+        { name: "APRENDIZAJE CONTINUO", icon: "📈" },
+        { name: "ATENCION AL DETALLE", icon: "🔍" },
+        { name: "PUNTUALIDAD", icon: "⏰" },
     ],
 
     // Educación
@@ -60,7 +60,7 @@ export const portfolioData = {
             description: "Full-stack clon de Slack con React y Node.js",
             link: "https://utn-2025-fe-dpl.vercel.app/login",
             image: "/images/slack-clone.png",
-            technologies: ["React", "Node.js", "MongoDB"],
+            technologies: ["React JS", "Node.js", "MongoDB"],
         },
         {
             id: 2,
@@ -68,7 +68,7 @@ export const portfolioData = {
             description: "Pagina web de juegos retro con React",
             link: "https://retro-games-lac.vercel.app/",
             image: "/images/retro-games.png",
-            technologies: ["JavaScript", "HTML5 Canvas", "CSS3"],
+            technologies: ["React JS", "HTML5 Canvas", "CSS3"],
         },
         {
             id: 3,

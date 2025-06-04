@@ -19,7 +19,7 @@ const Projects = () => {
     return (
         <section className="projects">
             <div className="container">
-                <h2>PROJECTS</h2>
+                <h2>PROYECTOS</h2>
                 <div className="projects-grid">
                     {portfolioData.projects.map((project) => (
                         <ProjectCard key={project.id} project={project} />
