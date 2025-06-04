@@ -10,7 +10,7 @@ export const portfolioData = {
     },
 
     // Navegación 
-    navigation: ["HABILIDADES", "EDUCACION", "PROYECTOS", "CONTACTO"],
+    navigation: ["SKILLS", "EDUCATION", "PROJECTS", "CONTACTS"],
 
     // Habilidades técnicas con iconos
     hardSkills: [
